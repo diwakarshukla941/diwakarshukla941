@@ -72,9 +72,18 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diwakarshukla941&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="Diwakar's GitHub stats" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarshukla941&theme=gruvbox&hide_border=false" alt="Diwakar's GitHub streak" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarshukla941&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Diwakar's top languages" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diwakarshukla941&theme=gruvbox" alt="Diwakar's repos per language" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diwakarshukla941&theme=gruvbox" alt="Diwakar's most committed language" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=diwakarshukla941&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
