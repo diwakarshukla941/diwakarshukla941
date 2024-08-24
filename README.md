@@ -105,7 +105,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakarshukla941&bg_color=1a1b27&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub Contributions" />
 </p>
-
 ---
 
 <p align="center">
