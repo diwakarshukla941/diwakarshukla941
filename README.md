@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Open%20Source%20Contributions%20-Developer-green?style=for-the-badge" alt="Open Source Contributions" />
 </p>
 
+
 ---
 
 ## 🌐 Connect with Me:
@@ -101,5 +102,10 @@
 </p>
 
 ---
+
+🏅 Badges:
+<p align="center"> <a href="https://holopin.me/diwakarshukla941" target="_blank"> <img src="https://holopin.me/diwakarshukla941" alt="Holopin Badge Board" /> </a> </p>
+
+
 
 
