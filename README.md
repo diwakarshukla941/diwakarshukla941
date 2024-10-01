@@ -16,6 +16,15 @@
 
 ---
 
+## 🏆 Achievements:
+<p align="center">
+  <img src="https://img.shields.io/badge/100%20Commits-Bronze-orange?style=for-the-badge" alt="100 Commits" />
+  <img src="https://img.shields.io/badge/Contributions%20for%20Hacktoberfest-Active-blueviolet?style=for-the-badge" alt="Hacktoberfest Contributions" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributions%20-Developer-green?style=for-the-badge" alt="Open Source Contributions" />
+</p>
+
+---
+
 ## 🌐 Connect with Me:
 <p align="center">
   <span>
@@ -84,7 +93,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=diwakarshukla941&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-
 ---
 
 ## 🏆 GitHub Trophies:
@@ -94,28 +102,4 @@
 
 ---
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="Random Dev Quote" />
-</p>
 
----
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <a href="https://github.com/diwakarshukla941/">
-    <img src="https://github-contributor-stats.vercel.app/api?username=diwakarshukla941&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-  </a>
-</p>
-
----
-
-### 📈 GitHub Contributions
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwakarshukla941&bg_color=1a1b27&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub Contributions" />
-</p>
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=diwakarshukla941&label=Profile%20views&color=7a4dff&style=for-the-badge" alt="visitcount" />
-</p>
