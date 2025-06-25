@@ -8,7 +8,7 @@
 ---
 
 ## 💫 About Me:
-- 🔭 I’m currently working on **Airbnb**
+- 🔭 I’m currently working on **personal projects**
 - 🌱 I’m currently learning **Core PHP, React.JS, Node.Js**
 - 👯 I’m looking to collaborate on **PHP projects**
 - 💬 Ask me about **Frontend (HTML, CSS, JS, Bootstrap), MySQL**
