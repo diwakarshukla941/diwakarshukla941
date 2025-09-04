@@ -1,18 +1,27 @@
-<h1 align="center">Hi 👋, I'm Diwakar Shukla</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<!-- Header -->
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Diwakar Shukla
+</h1>
+<h3 align="center">💻 A passionate Software Developer from India 🌏</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=diwakarshukla941&label=Profile%20views&color=0e75b6&style=flat" alt="diwakarshukla941" />
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Java+Full+Stack+Developer;Open+Source+Contributor;React+Node+%26+Next.js+Enthusiast;PHP+Developer" />
+</p>
+
 ---
 
 ## 💫 About Me:
-- 🔭 I’m currently working on **personal projects**
-- 🌱 I’m currently learning **Core PHP, React.JS, Node.Js**
-- 👯 I’m looking to collaborate on **PHP projects**
-- 💬 Ask me about **Frontend (HTML, CSS, JS, Bootstrap), MySQL**
-- 📫 How to reach me **shukladiwakar941@gmail.com**
+- 🔭 Currently working on **personal projects**
+- 🌱 Learning **Next.js & Java Full Stack**
+- 👯 Open to collaborate on **PHP & Full Stack projects**
+- 💬 Ask me about **Frontend (HTML, CSS, JS, Bootstrap, React), MySQL, Java**
+- 📫 Reach me at **shukladiwakar941@gmail.com**
+
 
 ---
 
@@ -71,6 +80,10 @@
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/JDBC-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Skiper_UI-%23FFCA28.svg?style=for-the-badge&logo=react&logoColor=white" alt="Skiper UI" />
     <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
