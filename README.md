@@ -25,13 +25,13 @@ const diwakar = {
     techStack: {
         backend:   ["Node.js", "Express.js", "TypeScript", "REST APIs", "GraphQL"],
         databases: ["MongoDB", "MySQL", "Redis"],
-        devops:    ["Docker", "Linux", "CI/CD", "Nginx", "PM2"],
+        devops:    ["Git", "Docker", "CI/CD", "ArgoCD"],
         testing:   ["Jest"],
         ai:        ["Claude Code", "OpenAI Codex", "Prompt Engineering"],
         languages: ["JavaScript", "TypeScript", "PHP", "Python", "C++", "Java"]
     },
-    architecture: ["Microservices", "Fault Tolerance", "Circuit Breaker", "Idempotency"],
-    funFact: "I reduced customer complaints from 20+/day to ~1/day. My product manager cried happy tears."
+    architecture: ["Microservices", "Fault Tolerance", "Retry Patterns", "Idempotency"],
+    funFact: "I reduced customer complaints from 20+/day to ~1/day. My PM still talks about it."
 };
 ```
 
@@ -46,7 +46,7 @@ const diwakar = {
 **Mumbai Metro - WhatsApp Ticketing**
 `Node.js` `MongoDB` `Redis` `WhatsApp Business API`
 
-Built a ticketing system with circuit breaker & retry logic. Took transaction success rate from **70% to 99%**.
+Built a ticketing system with retry & failover logic. Took transaction success rate from **70% to 99%**.
 
 </td>
 <td width="50%">
@@ -55,6 +55,24 @@ Built a ticketing system with circuit breaker & retry logic. Took transaction su
 `Node.js` `MongoDB` `Express.js` `Redis`
 
 Fault-tolerant issuance system handling **850+ req/sec** across 3 metro systems with zero dropped transactions.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**AntiFall - Elderly Safety Band**
+`React Native` `Firebase` `OTA Updates`
+
+Built OTA firmware update system for a smartwatch safety band. Push updates from phone to wearable, keeping grandparents safe.
+
+</td>
+<td width="50%">
+
+**Tej Delivery - Food Delivery Platform**
+`PHP` `MySQL` `REST APIs` `JWT`
+
+Backend for delivery management — payment records, rider tracking, login/logout monitoring, and RBAC dashboards.
 
 </td>
 </tr>
@@ -108,14 +126,23 @@ Real-time system with **95% accuracy** using LBPH algorithm at 30 FPS. No more p
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
+
+---
+
+### Currently vibing with
+
+- Building payment systems that handle rush hour without sweating
+- Exploring AI-assisted development with Claude Code & Codex
+- Contributing to open source (Hacktoberfest veteran)
+- Solving problems on LeetCode when I need a break from prod fires
 
 ---
 
