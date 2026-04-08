@@ -1,124 +1,157 @@
-<!-- Header -->
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Diwakar Shukla
+  Hey, I'm Diwakar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 </h1>
-<h3 align="center">💻 A passionate Software Developer from India 🌏</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diwakarshukla941&label=Profile%20views&color=0e75b6&style=flat" alt="diwakarshukla941" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Backend+Engineer;I+build+systems+that+don't+break+at+3AM;Node.js+%2B+Redis+%2B+MongoDB;Fintech+%26+Payment+Infrastructure;Open+Source+Contributor" />
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Java+Full+Stack+Developer;Open+Source+Contributor;React+Node+%26+Next.js+Enthusiast;PHP+Developer" />
-</p>
-
----
-
-## 💫 About Me:
-- 🔭 Currently working on **personal projects**
-- 🌱 Learning **Next.js & Java Full Stack**
-- 👯 Open to collaborate on **PHP & Full Stack projects**
-- 💬 Ask me about **Frontend (HTML, CSS, JS, Bootstrap, React), MySQL, Java**
-- 📫 Reach me at **shukladiwakar941@gmail.com**
-
-
----
-
-## 🏆 Achievements:
-<p align="center">
-  <img src="https://img.shields.io/badge/100%20Commits-Bronze-orange?style=for-the-badge" alt="100 Commits" />
-  <img src="https://img.shields.io/badge/Contributions%20for%20Hacktoberfest-Active-blueviolet?style=for-the-badge" alt="Hacktoberfest Contributions" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributions%20-Developer-green?style=for-the-badge" alt="Open Source Contributions" />
-</p>
-
-
----
-
-## 🌐 Connect with Me:
-<p align="center">
-  <span>
-    <a href="https://linkedin.com/in/diwakar-shukla-252a4a19b">
-      <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </span>
-  <span>
-    <a href="https://www.hackerrank.com/shukladiwakar941">
-      <img align="center" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-    </a>
-  </span>
-  <span>
-    <a href="https://leetcode.com/u/diwakarshukla2003/">
-      <img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-    </a>
-  </span>
-  <span>
-    <a href="https://auth.geeksforgeeks.org/user/diwakarrshukla/">
-      <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-    </a>
-  </span>
+  <a href="https://www.linkedin.com/in/diwakarshuklacse/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:diwakar.csae@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/diwakarshukla2003/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/shukladiwakar941"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 
 ---
 
-## 💻 Tech Stack:
+### A little about me
+
+```js
+const diwakar = {
+    role: "Backend Engineer",
+    location: "Mumbai, India",
+    currentFocus: "Distributed Systems & Payment Infrastructure",
+    techStack: {
+        backend:   ["Node.js", "Express.js", "TypeScript", "REST APIs", "GraphQL"],
+        databases: ["MongoDB", "MySQL", "Redis"],
+        devops:    ["Docker", "Linux", "CI/CD", "Nginx", "PM2"],
+        testing:   ["Jest"],
+        ai:        ["Claude Code", "OpenAI Codex", "Prompt Engineering"],
+        languages: ["JavaScript", "TypeScript", "PHP", "Python", "C++", "Java"]
+    },
+    architecture: ["Microservices", "Fault Tolerance", "Circuit Breaker", "Idempotency"],
+    funFact: "I reduced customer complaints from 20+/day to ~1/day. My product manager cried happy tears."
+};
+```
+
+---
+
+### Things I've shipped that I'm proud of
+
+<table>
+<tr>
+<td width="50%">
+
+**Mumbai Metro - WhatsApp Ticketing**
+`Node.js` `MongoDB` `Redis` `WhatsApp Business API`
+
+Built a ticketing system with circuit breaker & retry logic. Took transaction success rate from **70% to 99%**.
+
+</td>
+<td width="50%">
+
+**6-Phase Payment Pipeline @ Billeasy**
+`Node.js` `MongoDB` `Express.js` `Redis`
+
+Fault-tolerant issuance system handling **850+ req/sec** across 3 metro systems with zero dropped transactions.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**CRED Rewards - Pune Metro**
+`Node.js` `REST APIs` `Redis`
+
+Eligibility engine processing **500+ daily reward transactions** within the metro payment flow.
+
+</td>
+<td width="50%">
+
+**Face Recognition Attendance**
+`Python` `OpenCV` `NumPy`
+
+Real-time system with **95% accuracy** using LBPH algorithm at 30 FPS. No more proxy attendance.
+
+</td>
+</tr>
+</table>
+
+---
+
+### Numbers that make me smile
+
 <p align="center">
-  <span>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Skiper_UI-%23FFCA28.svg?style=for-the-badge&logo=react&logoColor=white" alt="Skiper UI" />
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/JDBC-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" />
-    <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </span>
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Transaction Success Rate | ~70% | **~99%** |
+| Customer Escalations/Day | 20+ | **<1** |
+| Redis Cache Hit Ratio | 60% | **98%** |
+| Ticket Recovery Latency (p99) | - | **<100ms** |
+| Peak Throughput | - | **850+ req/sec** |
+
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+### Tech I use daily
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diwakarshukla941&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="Diwakar's GitHub stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarshukla941&theme=gruvbox&hide_border=false" alt="Diwakar's GitHub streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarshukla941&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Diwakar's top languages" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diwakarshukla941&theme=gruvbox" alt="Diwakar's repos per language" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diwakarshukla941&theme=gruvbox" alt="Diwakar's most committed language" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=diwakarshukla941&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies:
+### GitHub activity
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diwakarshukla941&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="Diwakar's GitHub trophies" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarshukla941&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diwakarshukla941&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diwakarshukla941&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diwakarshukla941&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diwakarshukla941&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 ---
 
-🏅 Badges:
-<p align="center"> <a href="https://holopin.me/diwakarshukla941" target="_blank"> <img src="https://holopin.me/diwakarshukla941" alt="Holopin Badge Board" /> </a> </p>
+### Badges
 
+<p align="center">
+  <a href="https://holopin.me/diwakarshukla941"><img src="https://holopin.me/diwakarshukla941" alt="Holopin Badges" /></a>
+</p>
 
+---
 
+<p align="center">
+  <b>If it handles payments and shouldn't break at 3 AM, I'm probably the right person to build it.</b>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diwakarshukla941&color=36BCF7&style=flat-square" />
+</p>
