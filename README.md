@@ -25,7 +25,7 @@ const diwakar = {
     techStack: {
         backend:   ["Node.js", "Express.js", "TypeScript", "REST APIs", "GraphQL"],
         databases: ["MongoDB", "MySQL", "Redis"],
-        devops:    ["Git", "Docker", "CI/CD", "ArgoCD"],
+        devops:    ["Git", "CI/CD", "ArgoCD"],
         testing:   ["Jest"],
         ai:        ["Claude Code", "OpenAI Codex", "Prompt Engineering"],
         languages: ["JavaScript", "TypeScript", "PHP", "Python", "C++", "Java"]
