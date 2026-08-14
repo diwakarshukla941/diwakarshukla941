@@ -30,7 +30,7 @@ const diwakar = {
         ai:        ["Claude Code", "OpenAI Codex", "Prompt Engineering"],
         languages: ["JavaScript", "TypeScript", "PHP", "Python", "C++", "Java"]
     },
-    architecture: ["Microservices", "Fault Tolerance", "Retry Patterns", "Idempotency"],
+    architecture: ["Microservices" , "Fault Tolerance", "Retry Patterns", "Idempotency"],
     funFact: "I reduced customer complaints from 20+/day to ~1/day. My PM still talks about it."
 };
 ```
