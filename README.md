@@ -20,7 +20,7 @@
 
 ```js
 const diwakar = {
-    role: "Backend Engineer",
+    role: "Full Stack Engineer",
     location: "Mumbai, India",
     currentFocus: "Distributed Systems & Payment Infrastructure",
     techStack: {
